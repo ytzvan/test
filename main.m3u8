@@ -1486,4 +1486,388 @@ http://212.102.60.121:8000/calem7/4BY4CSaMUW/1585?checkedby:hlscat.com
 http://a1.gokakka.club:8880/testzyx030/123456789/3108?checkedby:hlscat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",USA NBA TV LHD
 http://ky-iptv.com:25461/powerful/powerful/176154?checkedby:hlscat.com
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 Starz Black (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/63652?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 Starz Cinema West (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/63649?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 Starz Comedy (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/63648?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 Starz East (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/63647?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 Starz Edge (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/63632?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 Starz Encore Action (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/63643?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 Starz Encore Family (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/63640?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 Starz Encore West (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/63636?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 Starz Family (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/63635?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA Starz 2
+http://ky-iptv.com:25461/powerful/powerful/182086?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.pngkey.com/png/full/335-3358841_the-previous-logos-were-introduced-in-2005-as.png" group-title="Undefined",STARZ (East)
+https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",STARZ CINEMA EAST
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208860.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",STARZ CINEMA WEST
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208861.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",STARZ EAST
+http://tv.pixelstream.net:81/blaze/blaze123/33275?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",STARZ EAST
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208858.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",STARZ EDGE
+http://super1.ideaiptv.com:2052/bandook/3243243/3358?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",STARZ EDGE
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208864.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",STARZ EDGE EAST
+http://tv.pixelstream.net:81/blaze/blaze123/33276?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",STARZ EDGE FHD
+http://a1.gokakka.club:8880/testzyx030/123456789/29466?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",STARZ EDGE West HD
+http://a1.gokakka.club:8880/testzyx030/123456789/29465?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",STARZ ENCORE
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208865.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",STARZ ENCORE BLACK
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208866.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",STARZ ENCORE CLASSIC
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208867.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",STARZ ENCORE CLASSIC EAST
+http://tv.pixelstream.net:81/blaze/blaze123/33298?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",STARZ ENCORE EAST
+http://tv.pixelstream.net:81/blaze/blaze123/33301?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",STARZ ENCORE FAMILY
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208869.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",STARZ ENCORE SUSPENSE
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208870.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",STARZ ENCORE SUSPENSE EAST
+http://tv.pixelstream.net:81/blaze/blaze123/33311?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",STARZ East
+http://super1.ideaiptv.com:2052/bandook/3243243/3314?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",STARZ IN BLACK
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208871.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",STARZ IN BLACK EAST
+http://tv.pixelstream.net:81/blaze/blaze123/33324?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",STARZ KIDS & FAMILY EAST
+http://tv.pixelstream.net:81/blaze/blaze123/33327?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",STARZ KIDS & FAMILY FHD
+http://a1.gokakka.club:8880/testzyx030/123456789/29455?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",STARZ WEST
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208859.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Black HD
+http://a1.gokakka.club:8880/testzyx030/123456789/29471?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Cinema
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/32789.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Cinema
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/30022.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Cinema (TV)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/53879?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Cinema East FHD
+http://a1.gokakka.club:8880/testzyx030/123456789/29470?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Cinema FHD US
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4898?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Cinema HD
+http://super1.ideaiptv.com:2052/bandook/3243243/3316?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Cinema West FHD
+http://a1.gokakka.club:8880/testzyx030/123456789/29469?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Cinema(M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1567?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Comedy
+http://a1.gokakka.club:8880/testzyx030/123456789/29497?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Comedy
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/30021.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Comedy (TV)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/53880?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Comedy East HD
+http://a1.gokakka.club:8880/testzyx030/123456789/29468?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Comedy FHD
+http://a1.gokakka.club:8880/testzyx030/123456789/29467?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Comedy FHD US
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4899?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz East
+http://a1.gokakka.club:8880/testzyx030/123456789/3149?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz East (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/53887?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz East(M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1566?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Edge
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/30019.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Edge (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/53881?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Edge (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/53886?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Edge HD
+http://a1.gokakka.club:8880/testzyx030/123456789/29494?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Edge US
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4897?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Encore
+http://a1.gokakka.club:8880/testzyx030/123456789/29493?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Encore
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/32792.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Encore (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/53882?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Encore Action
+http://a1.gokakka.club:8880/testzyx030/123456789/29464?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Encore Action (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1564?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Encore Black HD
+http://a1.gokakka.club:8880/testzyx030/123456789/29463?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Encore Classic
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/32793.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Encore Classic FHD
+http://a1.gokakka.club:8880/testzyx030/123456789/29462?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Encore EAST HD
+http://a1.gokakka.club:8880/testzyx030/123456789/29461?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Encore East
+http://a1.gokakka.club:8880/testzyx030/123456789/29492?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Encore East
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/30036.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Encore EspaÃ±ol HD (West)
+http://dmtn.tv:8080/brother-iptv/sSsoZ9CVH9/170387?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Encore Family
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/32922.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Encore Family FHD
+http://a1.gokakka.club:8880/testzyx030/123456789/29460?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Encore Suspense
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/32923.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Encore Suspense (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/53883?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Encore Suspense HD
+http://a1.gokakka.club:8880/testzyx030/123456789/29459?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Encore West FHD
+http://a1.gokakka.club:8880/testzyx030/123456789/29458?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Encore West(M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1558?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Encore Western
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/32794.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Encore(M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1560?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Etas
+http://a1.gokakka.club:8880/testzyx030/123456789/29495?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Kids",Starz Kids & Family
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/32924.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Kids & Family (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/53884?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Suspense
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/32795.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz West
+http://a1.gokakka.club:8880/testzyx030/123456789/29491?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz West (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/53885?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz in Black(M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1568?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA STARZ ENCORE ACTION SD
+http://ky-iptv.com:25461/powerful/powerful/176073?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA StarZ East
+http://ky-iptv.com:25461/powerful/powerful/176071?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA Starz Cinema
+http://ky-iptv.com:25461/powerful/powerful/176068?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA Starz Comedy East
+http://ky-iptv.com:25461/powerful/powerful/176069?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA Starz Encore Action
+http://ky-iptv.com:25461/powerful/powerful/176072?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA Starz Encore Black
+http://ky-iptv.com:25461/powerful/powerful/176074?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA Starz Encore Classic
+http://ky-iptv.com:25461/powerful/powerful/176075?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA Starz Encore East
+http://ky-iptv.com:25461/powerful/powerful/176076?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA Starz Encore Edge
+http://ky-iptv.com:25461/powerful/powerful/176077?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA Starz Encore Family
+http://ky-iptv.com:25461/powerful/powerful/176078?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA Starz Encore Suspense
+http://ky-iptv.com:25461/powerful/powerful/176079?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA Starz Encore West
+http://ky-iptv.com:25461/powerful/powerful/176080?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA Starz Encore Westerns
+http://ky-iptv.com:25461/powerful/powerful/176081?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Kids",USA Starz Kids & Family
+http://ky-iptv.com:25461/powerful/powerful/176083?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA Starz West
+http://ky-iptv.com:25461/powerful/powerful/176084?checkedby:hlscat.com
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA HBO 1
+http://ky-iptv.com:25461/powerful/powerful/181971?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA HBO 2
+http://ky-iptv.com:25461/powerful/powerful/181972?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HBO
+http://links.iptvlogin.com:80/live/vhq7GD6upH/nNWN86sbsE/11486.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HBO
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11486.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="Undefined",HBO (East)
+https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO (M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/35801?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO (TV)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/53856?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="Undefined",HBO (West)
+https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HBO 1
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16326?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HBO 1
+http://a1.gokakka.club:8880/testzyx030/123456789/30173?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HBO 1 (M)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/3692?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HBO 1 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118345?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HBO 2
+http://links.iptvlogin.com:80/live/vhq7GD6upH/nNWN86sbsE/56583.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO 2
+http://a1.gokakka.club:8880/testzyx030/123456789/3113?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO 2
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208906.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO 2
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/32698.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HBO 2
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/56583.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO 2
+http://super1.ideaiptv.com:2052/bandook/3243243/28177?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HBO 2 (720)(M)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/3693?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO 2 (M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/35797?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO 2 EAST
+http://tv.pixelstream.net:81/blaze/blaze123/33188?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HBO 2 HD
+http://links.iptvlogin.com:80/live/vhq7GD6upH/nNWN86sbsE/208280.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HBO 2 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/118346?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HBO 2 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/26973?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HBO 2 HD
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208280.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO 2 West(M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1573?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO 2(M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1572?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HBO 3 FHD
+http://links.iptvlogin.com:80/live/vhq7GD6upH/nNWN86sbsE/17150.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO COMEDY
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208908.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Comedy
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/32699.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Comedy (M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/35798?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Comedy East
+http://a1.gokakka.club:8880/testzyx030/123456789/3123?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Comedy FHD US
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4921?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Comedy HD
+http://super1.ideaiptv.com:2052/bandook/3243243/3356?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Comedy HD US
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13762?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO EAST
+http://tv.pixelstream.net:81/blaze/blaze123/33168?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO EAST
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208903.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO East
+http://a1.gokakka.club:8880/testzyx030/123456789/3122?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HBO East
+http://a1.gokakka.club:8880/testzyx030/123456789/3032?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO FAMILY EAST
+http://tv.pixelstream.net:81/blaze/blaze123/33173?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO FAMILY UHD
+http://tv.pixelstream.net:81/blaze/blaze123/121727?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Family
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/32700.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Family
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/30103.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Family
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208900.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Family (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/35799?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HBO HD
+http://links.iptvlogin.com:80/live/vhq7GD6upH/nNWN86sbsE/17151.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HBO HD
+http://links.iptvlogin.com:80/live/vhq7GD6upH/nNWN86sbsE/208281.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO HD
+http://super1.ideaiptv.com:2052/bandook/3243243/3311?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HBO HD
+http://super1.ideaiptv.com:2052/bandook/3243243/26972?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HBO HD
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208281.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO HD
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/30050.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO LATINO EAST
+http://tv.pixelstream.net:81/blaze/blaze123/33177?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Plus West(M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1571?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Signature
+http://a1.gokakka.club:8880/testzyx030/123456789/3121?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Signature
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/32702.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Signature (M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/35800?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Signature HD
+http://super1.ideaiptv.com:2052/bandook/3243243/3320?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO WEST
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208904.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO ZONE
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/30049.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO ZONE UHD
+http://tv.pixelstream.net:81/blaze/blaze123/121728?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Zone East
+http://a1.gokakka.club:8880/testzyx030/123456789/3120?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Zone HD
+http://super1.ideaiptv.com:2052/bandook/3243243/3357?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA HBO 2 East UHD
+http://ky-iptv.com:25461/powerful/powerful/176041?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA HBO Comedy
+http://ky-iptv.com:25461/powerful/powerful/176042?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA HBO East
+http://ky-iptv.com:25461/powerful/powerful/176044?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA HBO Family
+http://ky-iptv.com:25461/powerful/powerful/176047?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA HBO Signature
+http://ky-iptv.com:25461/powerful/powerful/176048?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA HBO West
+http://ky-iptv.com:25461/powerful/powerful/176050?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA HBO Zone
+http://ky-iptv.com:25461/powerful/powerful/176052?checkedby:hlscat.com
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA Food Network
+http://ky-iptv.com:25461/powerful/powerful/181950?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FOOD NETWORK
+http://links.iptvlogin.com:80/live/vhq7GD6upH/nNWN86sbsE/11479.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FOOD NETWORK
+http://tv.pixelstream.net:81/blaze/blaze123/31734?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FOOD NETWORK
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/30081.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FOOD NETWORK
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/11479.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FOOD NETWORK EAST
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208823.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FOOD NETWORK HD
+http://super1.ideaiptv.com:2052/bandook/3243243/26965?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FOOD NETWORK HD
+http://a1.gokakka.club:8880/testzyx030/123456789/3039?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FOOD NETWORK WEST
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/208824.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FOOD Network HD (West)
+http://dmtn.tv:8080/brother-iptv/sSsoZ9CVH9/117359?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Food Network
+http://194.40.241.218:83/live/directline76598/35222AM0203424421468352020/1.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Food Network (TV)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/53838?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Food Network HD
+http://links.iptvlogin.com:80/live/vhq7GD6upH/nNWN86sbsE/17146.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Food Network HD
+http://super1.ideaiptv.com:2052/bandook/3243243/3343?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Food Network HD
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/32644.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Food-Network
+http://a1.gokakka.club:8880/testzyx030/123456789/3133?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA Food Network
+http://ky-iptv.com:25461/powerful/powerful/175847?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA Food Network East LHD
+http://ky-iptv.com:25461/powerful/powerful/175848?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA Food Network East UHD
+http://ky-iptv.com:25461/powerful/powerful/175850?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA Food Network West
+http://ky-iptv.com:25461/powerful/powerful/175851?checkedby:hlscat.com
 
