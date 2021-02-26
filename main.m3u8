@@ -4,3 +4,11 @@
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PA" tvg-logo="https://i.imgur.com/IqLT2CC.png" group-title="Undefined",OYE CANAL 7,PA | OYE CANAL 7
 https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8?checkedby:iptvcat.com
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/vakdxny.jpg" group-title="Undefined",Canal 10 Cancún
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/7BE9Cpp.png" group-title="Undefined",MTV (Latinoamérica)
+http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/bjGgLrA.jpg" group-title="Undefined",Telemax
+http://s5.mexside.net:1935/telemax/telemax/.m3u8?checkedby:iptvcat.com
